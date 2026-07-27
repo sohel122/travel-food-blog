@@ -1,0 +1,6 @@
+{
+  "name": "Best Street Food in Bangladesh",
+  "description": "Top food vlog and blog in Bangladesh, featuring delicious local street food guides, travel vlogs, and culinary stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
